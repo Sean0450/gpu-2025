@@ -2,6 +2,7 @@
 #define __GELU_OMP_H
 
 #include <vector>
+#include <numbers>
 
 namespace constants
 {
